@@ -8,7 +8,7 @@ currency=pyson('currency')
 if 'name' not in currency.data:
     currency.data['name']='dollars'
 
-bot=commands.Bot(command_prefix="!")
+bot=commands.Bot(command_prefix="++")
 
 @bot.event
 async def on_ready():
