@@ -2,6 +2,7 @@
 import discord
 from discord.ext import commands
 from pyson import pyson
+from itertools import cycle
 
 england=pyson('england')
 brittany=pyson('brittany')
