@@ -3,6 +3,7 @@ import discord
 from discord.ext import commands
 from pyson import pyson
 
+england=pyson('england')
 brittany=pyson('brittany')
 soldier=pyson('infantry')
 
